@@ -1,0 +1,44 @@
+* {
+	font-family: "Roboto";
+}
+
+/*********************************
+HEADER
+*********************************/
+
+header {
+	background-color: orange;
+	color: black;
+	padding: 1.04166666%;
+	margin-bottom: 40px;
+}
+
+header h1, header h3 {
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+header h3 {
+	margin-top: 0;
+	font-weight: normal;
+}
+
+
+
+/*********************************
+CARD LAYOUT
+*********************************/
+
+.photo {
+	width: 100%;
+}
+
+.character {
+	border: 1px solid #CCCCCC;
+	margin-bottom: 20px;
+}
+
+.character h2, 
+.character p {
+	margin: 15px;
+}
