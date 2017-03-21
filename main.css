@@ -42,3 +42,7 @@ CARD LAYOUT
 .character p {
 	margin: 15px;
 }
+
+.row {
+	display: flex;
+}
