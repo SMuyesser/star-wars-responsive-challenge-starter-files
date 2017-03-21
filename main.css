@@ -44,5 +44,5 @@ CARD LAYOUT
 }
 
 .row {
-	display: flex;
+	overflow: hidden;
 }
